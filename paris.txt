@@ -1,0 +1,6 @@
+=== PARIS.TXT - simulation Polymarket (fonds fictifs) ===
+[2026-11-26] INIT : cagnotte 50.00 $ | plus haut 50.00 $ | paris ouverts 0
+[2026-11-26] CYCLE 1 : aucun pari. Raison : API Gamma inaccessible depuis ce chat
+             (l'outil de lecture web refuse les URL non issues d'une recherche).
+             Aucune donnee de marche reelle, donc aucune probabilite calculee.
+             Rien n'a ete invente.
